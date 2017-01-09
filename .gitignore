@@ -1,2 +1,6 @@
 *.[oa]
 *~
+.classpath
+.project
+.settings/
+target/
